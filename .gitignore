@@ -1,2 +1,4 @@
 #忽略images下面的文件
 /images/
+#忽略所以.bak结尾的文件
+.bak
